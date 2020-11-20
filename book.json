@@ -1,0 +1,5 @@
+{
+	"title": "Summary",
+	"plugins" : [],
+	"ignores" : ["_book", "node_modules"]
+}
